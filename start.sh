@@ -1,7 +1,7 @@
 #!/bin/sh
 
 PORT=53854
-UUID=c041f723-7a7f-4a66-bb65-9110c9cceaff
+UUID=e5c7cf7f-00ca-4f11-9871-61dd6c2ddac7
 WebPage=https://bing.com
 CaddyConfig=https://raw.githubusercontent.com/franknode/sh-docker/main/apps/Caddyfile
 XRayConfig=https://raw.githubusercontent.com/franknode/sh-docker/main/apps/xray.json
