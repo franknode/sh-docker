@@ -2,7 +2,7 @@
 
 PORT=53854
 UUID=e5c7cf7f-00ca-4f11-9871-61dd6c2ddac7
-WebPage=https://bing.com
+WebPage=https://duckduckgo.com
 CaddyConfig=https://raw.githubusercontent.com/franknode/sh-docker/main/apps/Caddyfile
 XRayConfig=https://raw.githubusercontent.com/franknode/sh-docker/main/apps/xray.json
 Xray_Newv=`wget --no-check-certificate -qO- https://api.github.com/repos/XTLS/Xray-core/tags | grep 'name' | cut -d\" -f4 | head -1 | cut -b 2-`
